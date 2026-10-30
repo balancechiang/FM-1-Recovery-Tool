@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="screenshot_en.png" alt="Screenshot EN" width="600">
+</p>
+
 # FM-1 Recovery Tool
 
 FM-1 Windows x64 本地离线恢复官方 V15。非官方工具，与 M-VAVE 无隶属关系。
