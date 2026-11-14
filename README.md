@@ -118,3 +118,5 @@ GUI uses unmodified dynamically loaded PySide6 / Qt 6.12 libraries under LGPLv3;
 Retained upstream licenses are in `licenses` and `upstream`. The project code license does not replace the permissions applicable to firmware or third-party binaries.
 
 本地修改 / Local changes: output-only boot key without identity handshake; offline network guard; bilingual operator prompts; case-insensitive V15 confirmation; startup settling delays and one transport retry; contextual read-error logging; PyInstaller single-file packaging.
+
+Related: try FM-1 firmwares in the browser with the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
